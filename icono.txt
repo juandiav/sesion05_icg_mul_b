@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<svg width="512" height="512" >
+
+  <polygon points="170 1, 1 170, 87 256,256 87"
+      stroke="green" fill="transparent" stroke-width="5"/>
+      <polygon points="213 172, 172 213,225 267, 267 225"
+      stroke="green" fill="transparent" stroke-width="5"/>
+      <polygon points="470 48,512 90 ,352 248,341 237, 246 333, 252 339, 238 405, 84 512,45 474, 152 320, 220 306, 225 312, 320 216, 310 206 "
+      stroke="green" fill="transparent" stroke-width="5"/>
+      <polygon points="332 290, 290 332,426 468, 468 426 "
+      stroke="green" fill="transparent" stroke-width="5"/>
+
+<svg>
